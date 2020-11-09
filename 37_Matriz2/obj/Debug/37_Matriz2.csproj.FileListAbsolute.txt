@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\bin\Debug\37_Matriz2.exe.config
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\bin\Debug\37_Matriz2.exe
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\bin\Debug\37_Matriz2.pdb
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\obj\Debug\37_Matriz2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\obj\Debug\37_Matriz2.exe
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\obj\Debug\37_Matriz2.pdb
+D:\Programacion\Proyectos\Visual Studio\37_Matriz2\37_Matriz2\obj\Debug\37_Matriz2.csprojAssemblyReference.cache

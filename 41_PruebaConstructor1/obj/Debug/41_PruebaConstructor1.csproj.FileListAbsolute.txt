@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\bin\Debug\41_PruebaConstructor1.exe.config
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\bin\Debug\41_PruebaConstructor1.exe
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\bin\Debug\41_PruebaConstructor1.pdb
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\obj\Debug\41_PruebaConstructor1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\obj\Debug\41_PruebaConstructor1.exe
+D:\Programacion\Proyectos\Visual Studio\41_PruebaConstructor1\41_PruebaConstructor1\obj\Debug\41_PruebaConstructor1.pdb

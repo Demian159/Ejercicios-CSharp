@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\bin\Debug\45_Propiedades2.exe.config
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\bin\Debug\45_Propiedades2.exe
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\bin\Debug\45_Propiedades2.pdb
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\obj\Debug\45_Propiedades2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\obj\Debug\45_Propiedades2.exe
+D:\Programacion\Proyectos\Visual Studio\45_Propiedades2\45_Propiedades2\obj\Debug\45_Propiedades2.pdb

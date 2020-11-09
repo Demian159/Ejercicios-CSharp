@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\bin\Debug\102_genericos2}.exe.config
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\bin\Debug\102_genericos2}.exe
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\bin\Debug\102_genericos2}.pdb
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\obj\Debug\102_genericos2}.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\obj\Debug\102_genericos2}.exe
+C:\Users\Azul-AES\source\repos\102_genericos2}\102_genericos2}\obj\Debug\102_genericos2}.pdb

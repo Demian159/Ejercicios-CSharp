@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\bin\Debug\73_EstructuraSwitch2.exe.config
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\bin\Debug\73_EstructuraSwitch2.exe
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\bin\Debug\73_EstructuraSwitch2.pdb
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\obj\Debug\73_EstructuraSwitch2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\obj\Debug\73_EstructuraSwitch2.exe
+C:\Users\Azul-AES\source\repos\73_EstructuraSwitch2\73_EstructuraSwitch2\obj\Debug\73_EstructuraSwitch2.pdb

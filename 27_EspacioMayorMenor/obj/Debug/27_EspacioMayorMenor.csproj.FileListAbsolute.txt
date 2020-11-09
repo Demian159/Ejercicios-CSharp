@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\bin\Debug\27_EspacioMayorMenor.exe.config
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\bin\Debug\27_EspacioMayorMenor.exe
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\bin\Debug\27_EspacioMayorMenor.pdb
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\obj\Debug\27_EspacioMayorMenor.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\obj\Debug\27_EspacioMayorMenor.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\obj\Debug\27_EspacioMayorMenor.exe
+D:\Programacion\Proyectos\Visual Studio\27_EspacioMayorMenor\27_EspacioMayorMenor\obj\Debug\27_EspacioMayorMenor.pdb

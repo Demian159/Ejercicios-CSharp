@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\bin\Debug\99_Propiedades2.exe.config
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\bin\Debug\99_Propiedades2.exe
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\bin\Debug\99_Propiedades2.pdb
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\obj\Debug\99_Propiedades2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\obj\Debug\99_Propiedades2.exe
+C:\Users\Azul-AES\source\repos\99_Propiedades2\99_Propiedades2\obj\Debug\99_Propiedades2.pdb

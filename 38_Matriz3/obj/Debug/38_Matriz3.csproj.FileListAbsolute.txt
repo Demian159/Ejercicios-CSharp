@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\bin\Debug\38_Matriz3.exe.config
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\bin\Debug\38_Matriz3.exe
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\bin\Debug\38_Matriz3.pdb
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\obj\Debug\38_Matriz3.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\obj\Debug\38_Matriz3.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\obj\Debug\38_Matriz3.exe
+D:\Programacion\Proyectos\Visual Studio\38_Matriz3\38_Matriz3\obj\Debug\38_Matriz3.pdb

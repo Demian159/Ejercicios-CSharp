@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\bin\Debug\13_EstructuraCondicionalFor2.exe.config
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\bin\Debug\13_EstructuraCondicionalFor2.exe
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\bin\Debug\13_EstructuraCondicionalFor2.pdb
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\obj\Debug\13_EstructuraCondicionalFor2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\obj\Debug\13_EstructuraCondicionalFor2.exe
+D:\Programacion\Proyectos\Visual Studio\13_EstructuraCondicionalFor2\13_EstructuraCondicionalFor2\obj\Debug\13_EstructuraCondicionalFor2.pdb

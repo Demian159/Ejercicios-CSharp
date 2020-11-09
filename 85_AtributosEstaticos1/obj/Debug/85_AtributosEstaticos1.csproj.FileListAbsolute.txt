@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\bin\Debug\85_AtributosEstaticos1.exe.config
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\bin\Debug\85_AtributosEstaticos1.exe
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\bin\Debug\85_AtributosEstaticos1.pdb
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\obj\Debug\85_AtributosEstaticos1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\obj\Debug\85_AtributosEstaticos1.exe
+C:\Users\Azul-AES\source\repos\85_AtributosEstaticos1\85_AtributosEstaticos1\obj\Debug\85_AtributosEstaticos1.pdb

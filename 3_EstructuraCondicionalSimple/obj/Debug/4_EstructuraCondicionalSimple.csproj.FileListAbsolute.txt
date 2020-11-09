@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\bin\Debug\3_EstructuraCondicionalSimple.exe.config
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\bin\Debug\3_EstructuraCondicionalSimple.exe
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\bin\Debug\3_EstructuraCondicionalSimple.pdb
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\obj\Debug\4_EstructuraCondicionalSimple.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\obj\Debug\3_EstructuraCondicionalSimple.exe
+D:\Programacion\Proyectos\Visual Studio\3_EstructuraCondicionalSimple\3_EstructuraCondicionalSimple\obj\Debug\3_EstructuraCondicionalSimple.pdb

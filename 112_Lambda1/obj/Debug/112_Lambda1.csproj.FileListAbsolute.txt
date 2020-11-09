@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\bin\Debug\112_Lambda1.exe.config
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\bin\Debug\112_Lambda1.exe
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\bin\Debug\112_Lambda1.pdb
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\obj\Debug\112_Lambda1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\obj\Debug\112_Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\obj\Debug\112_Lambda1.exe
+C:\Users\Azul-AES\source\repos\112_Lambda1\112_Lambda1\obj\Debug\112_Lambda1.pdb

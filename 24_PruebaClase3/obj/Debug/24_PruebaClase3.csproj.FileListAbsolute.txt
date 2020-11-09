@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\bin\Debug\24_PruebaClase3.exe.config
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\bin\Debug\24_PruebaClase3.exe
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\bin\Debug\24_PruebaClase3.pdb
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\obj\Debug\24_PruebaClase3.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\obj\Debug\24_PruebaClase3.exe
+D:\Programacion\Proyectos\Visual Studio\24_PruebaClase3\24_PruebaClase3\obj\Debug\24_PruebaClase3.pdb

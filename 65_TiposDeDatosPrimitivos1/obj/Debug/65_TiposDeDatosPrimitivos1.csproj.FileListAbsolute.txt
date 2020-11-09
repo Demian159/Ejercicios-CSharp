@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\bin\Debug\65_TiposDeDatosPrimitivos1.exe.config
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\bin\Debug\65_TiposDeDatosPrimitivos1.exe
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\bin\Debug\65_TiposDeDatosPrimitivos1.pdb
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\obj\Debug\65_TiposDeDatosPrimitivos1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\obj\Debug\65_TiposDeDatosPrimitivos1.exe
+C:\Users\Azul-AES\source\repos\65_TiposDeDatosPrimitivos1\65_TiposDeDatosPrimitivos1\obj\Debug\65_TiposDeDatosPrimitivos1.pdb

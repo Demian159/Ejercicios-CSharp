@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\bin\Debug\2_SuperficieCuadrado.exe.config
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\bin\Debug\2_SuperficieCuadrado.exe
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\bin\Debug\2_SuperficieCuadrado.pdb
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\obj\Debug\2_SuperficieCuadrado.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\obj\Debug\2_SuperficieCuadrado.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\obj\Debug\2_SuperficieCuadrado.exe
+D:\Programacion\Proyectos\Visual Studio\2_SuperficieCuadrado\2_SuperficieCuadrado\obj\Debug\2_SuperficieCuadrado.pdb

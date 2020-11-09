@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\bin\Debug\106_ProblemaList1.exe.config
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\bin\Debug\106_ProblemaList1.exe
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\bin\Debug\106_ProblemaList1.pdb
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\obj\Debug\106_ProblemaList1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\obj\Debug\106_ProblemaList1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\obj\Debug\106_ProblemaList1.exe
+C:\Users\Azul-AES\source\repos\106_ProblemaList1\106_ProblemaList1\obj\Debug\106_ProblemaList1.pdb

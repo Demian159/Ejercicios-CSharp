@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\bin\Debug\49_Herencia4.exe.config
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\bin\Debug\49_Herencia4.exe
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\bin\Debug\49_Herencia4.pdb
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\obj\Debug\49_Herencia4.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\obj\Debug\49_Herencia4.exe
+D:\Programacion\Proyectos\Visual Studio\49_Herencia4\49_Herencia4\obj\Debug\49_Herencia4.pdb

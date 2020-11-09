@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\bin\Debug\22_PruebaClase1.exe.config
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\bin\Debug\22_PruebaClase1.exe
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\bin\Debug\22_PruebaClase1.pdb
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\obj\Debug\22_PruebaClase1.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\obj\Debug\22_PruebaClase1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\obj\Debug\22_PruebaClase1.exe
+D:\Programacion\Proyectos\Visual Studio\22_PruebaClase1\22_PruebaClase1\obj\Debug\22_PruebaClase1.pdb

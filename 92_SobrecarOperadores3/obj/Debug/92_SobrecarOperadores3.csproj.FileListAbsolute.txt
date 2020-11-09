@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\bin\Debug\92_SobrecarOperadores3.exe.config
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\bin\Debug\92_SobrecarOperadores3.exe
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\bin\Debug\92_SobrecarOperadores3.pdb
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\obj\Debug\92_SobrecarOperadores3.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\obj\Debug\92_SobrecarOperadores3.exe
+C:\Users\Azul-AES\source\repos\92_SobrecarOperadores3\92_SobrecarOperadores3\obj\Debug\92_SobrecarOperadores3.pdb

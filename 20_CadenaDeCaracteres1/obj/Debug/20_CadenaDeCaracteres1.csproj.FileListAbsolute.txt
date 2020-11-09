@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\bin\Debug\20_CadenaDeCaracteres1.exe.config
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\bin\Debug\20_CadenaDeCaracteres1.exe
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\bin\Debug\20_CadenaDeCaracteres1.pdb
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\obj\Debug\20_CadenaDeCaracteres1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\obj\Debug\20_CadenaDeCaracteres1.exe
+D:\Programacion\Proyectos\Visual Studio\20_CadenaDeCaracteres1\20_CadenaDeCaracteres1\obj\Debug\20_CadenaDeCaracteres1.pdb

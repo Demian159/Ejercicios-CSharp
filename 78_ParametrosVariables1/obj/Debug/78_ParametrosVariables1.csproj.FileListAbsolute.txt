@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\bin\Debug\78_ParametrosVariables1.exe.config
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\bin\Debug\78_ParametrosVariables1.exe
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\bin\Debug\78_ParametrosVariables1.pdb
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\obj\Debug\78_ParametrosVariables1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\obj\Debug\78_ParametrosVariables1.exe
+C:\Users\Azul-AES\source\repos\78_ParametrosVariables1\78_ParametrosVariables1\obj\Debug\78_ParametrosVariables1.pdb

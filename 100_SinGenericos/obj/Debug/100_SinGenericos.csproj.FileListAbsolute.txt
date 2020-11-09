@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\bin\Debug\100_SinGenericos.exe.config
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\bin\Debug\100_SinGenericos.exe
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\bin\Debug\100_SinGenericos.pdb
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\obj\Debug\100_SinGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\obj\Debug\100_SinGenericos.exe
+C:\Users\Azul-AES\source\repos\100_SinGenericos\100_SinGenericos\obj\Debug\100_SinGenericos.pdb

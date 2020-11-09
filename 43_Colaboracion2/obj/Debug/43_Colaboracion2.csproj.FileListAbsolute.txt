@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\bin\Debug\43_Colaboracion2.exe.config
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\bin\Debug\43_Colaboracion2.exe
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\bin\Debug\43_Colaboracion2.pdb
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\obj\Debug\43_Colaboracion2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\obj\Debug\43_Colaboracion2.exe
+D:\Programacion\Proyectos\Visual Studio\43_Colaboracion2\43_Colaboracion2\obj\Debug\43_Colaboracion2.pdb

@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\bin\Debug\51_ListaTipoPila1.exe.config
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\bin\Debug\51_ListaTipoPila1.exe
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\bin\Debug\51_ListaTipoPila1.pdb
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\obj\Debug\51_ListaTipoPila1.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\obj\Debug\51_ListaTipoPila1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\obj\Debug\51_ListaTipoPila1.exe
+D:\Programacion\Proyectos\Visual Studio\51_ListaTipoPila1\51_ListaTipoPila1\obj\Debug\51_ListaTipoPila1.pdb

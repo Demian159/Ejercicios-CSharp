@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\bin\Debug\96_Indexador3.exe.config
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\bin\Debug\96_Indexador3.exe
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\bin\Debug\96_Indexador3.pdb
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\obj\Debug\96_Indexador3.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\obj\Debug\96_Indexador3.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\obj\Debug\96_Indexador3.exe
+C:\Users\Azul-AES\source\repos\96_Indexador3\96_Indexador3\obj\Debug\96_Indexador3.pdb

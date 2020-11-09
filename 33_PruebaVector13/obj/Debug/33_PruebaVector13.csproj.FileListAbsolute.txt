@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\bin\Debug\33_PruebaVector13.exe.config
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\bin\Debug\33_PruebaVector13.exe
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\bin\Debug\33_PruebaVector13.pdb
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\obj\Debug\33_PruebaVector13.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\obj\Debug\33_PruebaVector13.exe
+D:\Programacion\Proyectos\Visual Studio\33_PruebaVector13\33_PruebaVector13\obj\Debug\33_PruebaVector13.pdb

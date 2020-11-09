@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\bin\Debug\70_PalabraClaveThis.exe.config
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\bin\Debug\70_PalabraClaveThis.exe
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\bin\Debug\70_PalabraClaveThis.pdb
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\obj\Debug\70_PalabraClaveThis.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\obj\Debug\70_PalabraClaveThis.exe
+C:\Users\Azul-AES\source\repos\70_PalabraClaveThis\70_PalabraClaveThis\obj\Debug\70_PalabraClaveThis.pdb

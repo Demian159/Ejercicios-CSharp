@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\bin\Debug\63_ArbolBinarioOrdenado1.exe.config
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\bin\Debug\63_ArbolBinarioOrdenado1.exe
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\bin\Debug\63_ArbolBinarioOrdenado1.pdb
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\obj\Debug\63_ArbolBinarioOrdenado1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\obj\Debug\63_ArbolBinarioOrdenado1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\obj\Debug\63_ArbolBinarioOrdenado1.exe
+C:\Users\Azul-AES\source\repos\63_ArbolBinarioOrdenado1\63_ArbolBinarioOrdenado1\obj\Debug\63_ArbolBinarioOrdenado1.pdb

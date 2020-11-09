@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\bin\Debug\97_Propiedades1.exe.config
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\bin\Debug\97_Propiedades1.exe
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\bin\Debug\97_Propiedades1.pdb
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\obj\Debug\97_Propiedades1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\obj\Debug\97_Propiedades1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\obj\Debug\97_Propiedades1.exe
+C:\Users\Azul-AES\source\repos\97_Propiedades1\97_Propiedades1\obj\Debug\97_Propiedades1.pdb

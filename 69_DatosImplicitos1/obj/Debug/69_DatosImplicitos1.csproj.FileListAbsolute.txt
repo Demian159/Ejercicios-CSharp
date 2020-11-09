@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\bin\Debug\69_DatosImplicitos1.exe.config
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\bin\Debug\69_DatosImplicitos1.exe
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\bin\Debug\69_DatosImplicitos1.pdb
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\obj\Debug\69_DatosImplicitos1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\obj\Debug\69_DatosImplicitos1.exe
+C:\Users\Azul-AES\source\repos\69_DatosImplicitos1\69_DatosImplicitos1\obj\Debug\69_DatosImplicitos1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\bin\Debug\71_EstructuraForeach1.exe.config
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\bin\Debug\71_EstructuraForeach1.exe
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\bin\Debug\71_EstructuraForeach1.pdb
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\obj\Debug\71_EstructuraForeach1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\obj\Debug\71_EstructuraForeach1.exe
+C:\Users\Azul-AES\source\repos\71_EstructuraForeach1\71_EstructuraForeach1\obj\Debug\71_EstructuraForeach1.pdb

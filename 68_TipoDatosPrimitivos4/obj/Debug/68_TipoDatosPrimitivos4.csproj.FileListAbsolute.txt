@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\bin\Debug\68_TipoDatosPrimitivos4.exe.config
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\bin\Debug\68_TipoDatosPrimitivos4.exe
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\bin\Debug\68_TipoDatosPrimitivos4.pdb
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\obj\Debug\68_TipoDatosPrimitivos4.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\obj\Debug\68_TipoDatosPrimitivos4.exe
+C:\Users\Azul-AES\source\repos\68_TipoDatosPrimitivos4\68_TipoDatosPrimitivos4\obj\Debug\68_TipoDatosPrimitivos4.pdb

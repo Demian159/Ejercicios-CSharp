@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\bin\Debug\80_ParametrosNombre.exe.config
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\bin\Debug\80_ParametrosNombre.exe
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\bin\Debug\80_ParametrosNombre.pdb
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\obj\Debug\80_ParametrosNombre.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\obj\Debug\80_ParametrosNombre.exe
+C:\Users\Azul-AES\source\repos\80_ParametrosNombre\80_ParametrosNombre\obj\Debug\80_ParametrosNombre.pdb

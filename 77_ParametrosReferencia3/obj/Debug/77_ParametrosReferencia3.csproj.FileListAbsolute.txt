@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\bin\Debug\77_ParametrosReferencia3.exe.config
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\bin\Debug\77_ParametrosReferencia3.exe
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\bin\Debug\77_ParametrosReferencia3.pdb
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\obj\Debug\77_ParametrosReferencia3.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\obj\Debug\77_ParametrosReferencia3.exe
+C:\Users\Azul-AES\source\repos\77_ParametrosReferencia3\77_ParametrosReferencia3\obj\Debug\77_ParametrosReferencia3.pdb

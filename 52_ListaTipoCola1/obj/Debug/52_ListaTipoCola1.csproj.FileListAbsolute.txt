@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\bin\Debug\52_ListaTipoCola1.exe.config
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\bin\Debug\52_ListaTipoCola1.exe
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\bin\Debug\52_ListaTipoCola1.pdb
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\obj\Debug\52_ListaTipoCola1.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\obj\Debug\52_ListaTipoCola1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\obj\Debug\52_ListaTipoCola1.exe
+D:\Programacion\Proyectos\Visual Studio\52_ListaTipoCola1\52_ListaTipoCola1\obj\Debug\52_ListaTipoCola1.pdb

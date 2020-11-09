@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\bin\Debug\87_PropiedadesEstaticas1.exe.config
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\bin\Debug\87_PropiedadesEstaticas1.exe
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\bin\Debug\87_PropiedadesEstaticas1.pdb
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\obj\Debug\87_PropiedadesEstaticas1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\obj\Debug\87_PropiedadesEstaticas1.exe
+C:\Users\Azul-AES\source\repos\87_PropiedadesEstaticas1\87_PropiedadesEstaticas1\obj\Debug\87_PropiedadesEstaticas1.pdb

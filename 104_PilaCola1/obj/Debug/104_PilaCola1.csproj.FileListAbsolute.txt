@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\bin\Debug\104_PilaCola1.exe.config
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\bin\Debug\104_PilaCola1.exe
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\bin\Debug\104_PilaCola1.pdb
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\obj\Debug\104_PilaCola1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\obj\Debug\104_PilaCola1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\obj\Debug\104_PilaCola1.exe
+C:\Users\Azul-AES\source\repos\104_PilaCola1\104_PilaCola1\obj\Debug\104_PilaCola1.pdb

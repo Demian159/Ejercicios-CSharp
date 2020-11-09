@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\bin\Debug\32_PruebaVector11.exe.config
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\bin\Debug\32_PruebaVector11.exe
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\bin\Debug\32_PruebaVector11.pdb
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\obj\Debug\32_PruebaVector11.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\obj\Debug\32_PruebaVector11.exe
+D:\Programacion\Proyectos\Visual Studio\32_PruebaVector11\32_PruebaVector11\obj\Debug\32_PruebaVector11.pdb

@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\bin\Debug\68_SobrecargaParametros1.exe.config
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\bin\Debug\68_SobrecargaParametros1.exe
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\bin\Debug\68_SobrecargaParametros1.pdb
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\obj\Debug\68_SobrecargaParametros1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\obj\Debug\68_SobrecargaParametros1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\obj\Debug\68_SobrecargaParametros1.exe
+C:\Users\Azul-AES\source\repos\68_SobrecargaParametros1\68_SobrecargaParametros1\obj\Debug\68_SobrecargaParametros1.pdb

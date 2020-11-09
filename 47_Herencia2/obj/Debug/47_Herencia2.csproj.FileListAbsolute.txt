@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\bin\Debug\47_Herencia2.exe.config
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\bin\Debug\47_Herencia2.exe
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\bin\Debug\47_Herencia2.pdb
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\obj\Debug\47_Herencia2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\obj\Debug\47_Herencia2.exe
+D:\Programacion\Proyectos\Visual Studio\47_Herencia2\47_Herencia2\obj\Debug\47_Herencia2.pdb

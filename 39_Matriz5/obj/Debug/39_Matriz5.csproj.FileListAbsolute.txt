@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\bin\Debug\39_Matriz5.exe.config
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\bin\Debug\39_Matriz5.exe
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\bin\Debug\39_Matriz5.pdb
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\obj\Debug\39_Matriz5.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\obj\Debug\39_Matriz5.exe
+D:\Programacion\Proyectos\Visual Studio\39_Matriz5\39_Matriz5\obj\Debug\39_Matriz5.pdb

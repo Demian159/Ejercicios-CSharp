@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\bin\Debug\94_Indizador1.exe.config
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\bin\Debug\94_Indizador1.exe
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\bin\Debug\94_Indizador1.pdb
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\obj\Debug\94_Indizador1.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\obj\Debug\94_Indizador1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\obj\Debug\94_Indizador1.exe
+C:\Users\Azul-AES\source\repos\94_Indizador1\94_Indizador1\obj\Debug\94_Indizador1.pdb

@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\bin\Debug\54_ListaOrdenada1.exe.config
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\bin\Debug\54_ListaOrdenada1.exe
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\bin\Debug\54_ListaOrdenada1.pdb
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\obj\Debug\54_ListaOrdenada1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\obj\Debug\54_ListaOrdenada1.exe
+D:\Programacion\Proyectos\Visual Studio\54_ListaOrdenada1\54_ListaOrdenada1\obj\Debug\54_ListaOrdenada1.pdb

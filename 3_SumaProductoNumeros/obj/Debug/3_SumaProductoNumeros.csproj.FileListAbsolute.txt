@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\bin\Debug\3_SumaProductoNumeros.exe.config
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\bin\Debug\3_SumaProductoNumeros.exe
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\bin\Debug\3_SumaProductoNumeros.pdb
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\obj\Debug\3_SumaProductoNumeros.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\obj\Debug\3_SumaProductoNumeros.exe
+D:\Programacion\Proyectos\Visual Studio\3_SumaProductoNumeros\3_SumaProductoNumeros\obj\Debug\3_SumaProductoNumeros.pdb

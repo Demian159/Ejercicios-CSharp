@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\bin\Debug\111_Delegados2.exe.config
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\bin\Debug\111_Delegados2.exe
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\bin\Debug\111_Delegados2.pdb
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\obj\Debug\111_Delegados2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\obj\Debug\111_Delegados2.exe
+C:\Users\Azul-AES\source\repos\111_Delegados2\111_Delegados2\obj\Debug\111_Delegados2.pdb

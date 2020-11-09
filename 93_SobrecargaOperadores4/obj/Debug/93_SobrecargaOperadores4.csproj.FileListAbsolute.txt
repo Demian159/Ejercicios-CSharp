@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\bin\Debug\93_SobrecargaOperadores4.exe.config
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\bin\Debug\93_SobrecargaOperadores4.exe
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\bin\Debug\93_SobrecargaOperadores4.pdb
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\obj\Debug\93_SobrecargaOperadores4.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\obj\Debug\93_SobrecargaOperadores4.exe
+C:\Users\Azul-AES\source\repos\93_SobrecargaOperadores4\93_SobrecargaOperadores4\obj\Debug\93_SobrecargaOperadores4.pdb

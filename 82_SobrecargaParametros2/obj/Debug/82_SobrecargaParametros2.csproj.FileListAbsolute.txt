@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\bin\Debug\82_SobrecargaParametros2.exe.config
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\bin\Debug\82_SobrecargaParametros2.exe
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\bin\Debug\82_SobrecargaParametros2.pdb
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\obj\Debug\82_SobrecargaParametros2.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\obj\Debug\82_SobrecargaParametros2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\obj\Debug\82_SobrecargaParametros2.exe
+C:\Users\Azul-AES\source\repos\82_SobrecargaParametros2\82_SobrecargaParametros2\obj\Debug\82_SobrecargaParametros2.pdb

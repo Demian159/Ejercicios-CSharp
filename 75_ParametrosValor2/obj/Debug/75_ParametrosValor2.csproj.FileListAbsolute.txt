@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\bin\Debug\75_ParametrosValor2.exe.config
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\bin\Debug\75_ParametrosValor2.exe
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\bin\Debug\75_ParametrosValor2.pdb
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\obj\Debug\75_ParametrosValor2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\obj\Debug\75_ParametrosValor2.exe
+C:\Users\Azul-AES\source\repos\75_ParametrosValor2\75_ParametrosValor2\obj\Debug\75_ParametrosValor2.pdb

@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\bin\Debug\16_EstructuraRepetitivaFor5.exe.config
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\bin\Debug\16_EstructuraRepetitivaFor5.exe
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\bin\Debug\16_EstructuraRepetitivaFor5.pdb
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\obj\Debug\16_EstructuraRepetitivaFor5.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\obj\Debug\16_EstructuraRepetitivaFor5.exe
+D:\Programacion\Proyectos\Visual Studio\16_EstructuraRepetitivaFor5\16_EstructuraRepetitivaFor5\obj\Debug\16_EstructuraRepetitivaFor5.pdb

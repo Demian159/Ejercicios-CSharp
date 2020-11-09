@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\bin\Debug\31_PruebaVector8.exe.config
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\bin\Debug\31_PruebaVector8.exe
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\bin\Debug\31_PruebaVector8.pdb
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\obj\Debug\31_PruebaVector8.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\obj\Debug\31_PruebaVector8.exe
+D:\Programacion\Proyectos\Visual Studio\31_PruebaVector8\31_PruebaVector8\obj\Debug\31_PruebaVector8.pdb

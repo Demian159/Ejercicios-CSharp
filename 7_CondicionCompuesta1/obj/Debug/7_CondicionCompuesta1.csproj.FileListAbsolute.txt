@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\bin\Debug\7_CondicionCompuesta1.exe.config
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\bin\Debug\7_CondicionCompuesta1.exe
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\bin\Debug\7_CondicionCompuesta1.pdb
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\obj\Debug\7_CondicionCompuesta1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\obj\Debug\7_CondicionCompuesta1.exe
+D:\Programacion\Proyectos\Visual Studio\7_CondicionCompuesta1\7_CondicionCompuesta1\obj\Debug\7_CondicionCompuesta1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\bin\Debug\107_ProblemaLinkedList1.exe.config
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\bin\Debug\107_ProblemaLinkedList1.exe
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\bin\Debug\107_ProblemaLinkedList1.pdb
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\obj\Debug\107_ProblemaLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\obj\Debug\107_ProblemaLinkedList1.exe
+C:\Users\Azul-AES\source\repos\107_ProblemaLinkedList1\107_ProblemaLinkedList1\obj\Debug\107_ProblemaLinkedList1.pdb

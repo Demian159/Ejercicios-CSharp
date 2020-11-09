@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\bin\Debug\35_PruebaVectores16.exe.config
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\bin\Debug\35_PruebaVectores16.exe
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\bin\Debug\35_PruebaVectores16.pdb
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\obj\Debug\35_PruebaVectores16.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\obj\Debug\35_PruebaVectores16.exe
+D:\Programacion\Proyectos\Visual Studio\35_PruebaVectores16\35_PruebaVectores16\obj\Debug\35_PruebaVectores16.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\bin\Debug\89_Enumeracion1.exe.config
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\bin\Debug\89_Enumeracion1.exe
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\bin\Debug\89_Enumeracion1.pdb
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\obj\Debug\89_Enumeracion1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\obj\Debug\89_Enumeracion1.exe
+C:\Users\Azul-AES\source\repos\89_Enumeracion1\89_Enumeracion1\obj\Debug\89_Enumeracion1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\bin\Debug\109_Diccionarios2.exe.config
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\bin\Debug\109_Diccionarios2.exe
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\bin\Debug\109_Diccionarios2.pdb
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\obj\Debug\109_Diccionarios2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\obj\Debug\109_Diccionarios2.exe
+C:\Users\Azul-AES\source\repos\109_Diccionarios2\109_Diccionarios2\obj\Debug\109_Diccionarios2.pdb

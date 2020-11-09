@@ -1,0 +1,7 @@
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\bin\Debug\42_Colaboracion1.exe.config
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\bin\Debug\42_Colaboracion1.exe
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\bin\Debug\42_Colaboracion1.pdb
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\obj\Debug\42_Colaboracion1.csprojAssemblyReference.cache
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\obj\Debug\42_Colaboracion1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\obj\Debug\42_Colaboracion1.exe
+D:\Programacion\Proyectos\Visual Studio\42_Colaboracion1\42_Colaboracion1\obj\Debug\42_Colaboracion1.pdb

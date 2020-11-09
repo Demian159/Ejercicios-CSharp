@@ -1,0 +1,7 @@
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\bin\Debug\66_TiposDeDatosPrimitivos2.exe.config
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\bin\Debug\66_TiposDeDatosPrimitivos2.exe
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\bin\Debug\66_TiposDeDatosPrimitivos2.pdb
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\obj\Debug\66_TiposDeDatosPrimitivos2.csprojAssemblyReference.cache
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\obj\Debug\66_TiposDeDatosPrimitivos2.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\obj\Debug\66_TiposDeDatosPrimitivos2.exe
+C:\Users\Azul-AES\source\repos\66_TiposDeDatosPrimitivos2\66_TiposDeDatosPrimitivos2\obj\Debug\66_TiposDeDatosPrimitivos2.pdb

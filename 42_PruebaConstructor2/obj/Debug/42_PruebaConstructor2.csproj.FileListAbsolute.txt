@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\bin\Debug\42_PruebaConstructor2.exe.config
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\bin\Debug\42_PruebaConstructor2.exe
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\bin\Debug\42_PruebaConstructor2.pdb
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\obj\Debug\42_PruebaConstructor2.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\obj\Debug\42_PruebaConstructor2.exe
+D:\Programacion\Proyectos\Visual Studio\42_PruebaConstructor2\42_PruebaConstructor2\obj\Debug\42_PruebaConstructor2.pdb

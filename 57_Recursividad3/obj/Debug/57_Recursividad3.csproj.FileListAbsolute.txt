@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\obj\Debug\57_Recursividad3.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\bin\Debug\57_Recursividad3.exe.config
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\bin\Debug\57_Recursividad3.exe
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\bin\Debug\57_Recursividad3.pdb
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\obj\Debug\57_Recursividad3.exe
+D:\Programacion\Proyectos\Visual Studio\57_Recursividad3\57_Recursividad3\obj\Debug\57_Recursividad3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\bin\Debug\83_SobrecargaMetodos1.exe.config
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\bin\Debug\83_SobrecargaMetodos1.exe
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\bin\Debug\83_SobrecargaMetodos1.pdb
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\obj\Debug\83_SobrecargaMetodos1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\obj\Debug\83_SobrecargaMetodos1.exe
+C:\Users\Azul-AES\source\repos\83_SobrecargaMetodos1\83_SobrecargaMetodos1\obj\Debug\83_SobrecargaMetodos1.pdb

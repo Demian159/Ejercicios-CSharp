@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\bin\Debug\79_ParametrosOpcionales1.exe.config
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\bin\Debug\79_ParametrosOpcionales1.exe
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\bin\Debug\79_ParametrosOpcionales1.pdb
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\obj\Debug\79_ParametrosOpcionales1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\obj\Debug\79_ParametrosOpcionales1.exe
+C:\Users\Azul-AES\source\repos\79_ParametrosOpcionales1\79_ParametrosOpcionales1\obj\Debug\79_ParametrosOpcionales1.pdb

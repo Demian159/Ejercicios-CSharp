@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\bin\Debug\11_EstructuraRepetitivaWhile4.exe.config
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\bin\Debug\11_EstructuraRepetitivaWhile4.exe
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\bin\Debug\11_EstructuraRepetitivaWhile4.pdb
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\obj\Debug\11_EstructuraRepetitivaWhile4.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\obj\Debug\11_EstructuraRepetitivaWhile4.exe
+D:\Programacion\Proyectos\Visual Studio\11_EstructuraRepetitivaWhile4\11_EstructuraRepetitivaWhile4\obj\Debug\11_EstructuraRepetitivaWhile4.pdb

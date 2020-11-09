@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\bin\Debug\34_PruebaVector14.exe.config
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\bin\Debug\34_PruebaVector14.exe
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\bin\Debug\34_PruebaVector14.pdb
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\obj\Debug\34_PruebaVector14.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\obj\Debug\34_PruebaVector14.exe
+D:\Programacion\Proyectos\Visual Studio\34_PruebaVector14\34_PruebaVector14\obj\Debug\34_PruebaVector14.pdb

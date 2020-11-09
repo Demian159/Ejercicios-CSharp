@@ -1,0 +1,6 @@
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\bin\Debug\108_Diccionario1.exe.config
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\bin\Debug\108_Diccionario1.exe
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\bin\Debug\108_Diccionario1.pdb
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\obj\Debug\108_Diccionario1.csproj.CoreCompileInputs.cache
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\obj\Debug\108_Diccionario1.exe
+C:\Users\Azul-AES\source\repos\108_Diccionario1\108_Diccionario1\obj\Debug\108_Diccionario1.pdb

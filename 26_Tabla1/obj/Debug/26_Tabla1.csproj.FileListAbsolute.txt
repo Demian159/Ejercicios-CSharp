@@ -1,0 +1,6 @@
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\bin\Debug\26_Tabla1.exe.config
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\bin\Debug\26_Tabla1.exe
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\bin\Debug\26_Tabla1.pdb
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\obj\Debug\26_Tabla1.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\obj\Debug\26_Tabla1.exe
+D:\Programacion\Proyectos\Visual Studio\26_Tabla1\26_Tabla1\obj\Debug\26_Tabla1.pdb
